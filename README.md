@@ -3,7 +3,7 @@
 Actuellement en formation web-developpeur full stack. Je renforce mes compétences:
 React permet d'allier les performences du Html,du CSS et de Javascript pour dynamiser vos sites et vos applications.
 Bootstrap et les Media Queries rendront vos sites responsives et respecteront le concept de "Mobile First".
-Avec Git, vous pourrez mener des projets modernes en collaboration, ne gérant les mises à jour pour vous faire gagner du temps sur le développement.
+Avec Git, vous pourrez mener des projets modernes en collaboration, en gérant les mises à jour pour vous faire gagner du temps sur le développement.
 Php vous permettra de gérer les serveurs de vos bases de données.
 
 <!--
