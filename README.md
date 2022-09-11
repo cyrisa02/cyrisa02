@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-Actuellement en formation web-developpeur full stack. Je renforce mes compétences:
-React permet d'allier les performances du Html,du CSS et de Javascript pour dynamiser vos sites et vos applications.
-Bootstrap, SASS et les Media Queries rendront vos sites responsives et respecteront le concept de "Mobile First".
-Avec Git, vous pourrez mener des projets modernes en collaboration, en gérant les mises à jour pour vous faire gagner du temps sur le développement.
-Php vous permettra de gérer les serveurs de vos bases de données.
-
 <!--
 **cyrisa02/cyrisa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Cyril Gourdon</h1>
