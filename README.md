@@ -1,6 +1,3 @@
-
-<!--
-**cyrisa02/cyrisa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Cyril Gourdon</h1>
 <h3 align="center">A passionate Backend developer from France</h3>
 
@@ -33,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
