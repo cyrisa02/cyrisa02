@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [asdec](https://github.com/cyrisa02/asdec)
 
-- 🌱 I’m currently learning **React, Tailwind, Docker, Laravel**
+- 🌱 I’m currently learning **React, Tailwind, Docker (https://gitlab.com/cyrisa02/) , Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cyrisa02](https://github.com/cyrisa02)
 
