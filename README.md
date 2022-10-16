@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyril Gourdon</h1>
 <h3 align="center">A passionate Backend developer Symfony from France</h3>
 
-- 🔭 I’m currently working on https://github.com/cyrisa02/Docker-Angular-Projet1
+- 🔭 I’m currently working on Angular https://github.com/cyrisa02/Angular_Projet1
 
 - 🌱 I’m currently learning **React, Tailwind, Docker (https://gitlab.com/cyrisa02/) ,Angular, Laravel**
 
