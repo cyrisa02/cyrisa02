@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cyril-gourdon-web-developpeur-symfony-soissons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyril-gourdon-web-developpeur-symfony-soissons" height="30" width="40" /></a>
 <a href="https://fb.com/atelier du cabriolet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atelier du cabriolet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCwx0nLuqWHxVly5v_u-ll4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwx0nluqwhxvly5v_u-ll4q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwx0nLuqWHxVly5v_u-ll4Q/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwx0nluqwhxvly5v_u-ll4q" height="30" width="40" /></a>
 <a href="https://discord.gg/cyrisa02#8061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cyrisa02#8061" height="30" width="40" /></a>
 </p>
 
