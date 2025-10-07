@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Cyril Gourdon</h1>
-<h3 align="center">A passionate Backend developer from France</h3>
+<h1 align="center">Hello 👋, Je suis Cyril Gourdon</h1>
+<h3 align="center">I am a backend developer and AI consultant from France</h3>
 
-- 🔭 I’m currently working on [asdec](https://github.com/cyrisa02/asdec)
+- 🔭 Je travaille sur différents projets connectant l'Itelligence Artificielle pour le monde des TPE/PME, artisans et commerçants
 
-- 🌱 I’m currently learning **Angular, Tailwind, Docker, Laravel**
+- 🌱 Je travaille avec **Claude, Perplexity, NoteBookLM, Gemini, Grok, Manus, Skywork, Notion, Openrouter, ChatGPT**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/cyrisa02](https://github.com/cyrisa02)
+- 👨‍💻 La plus part de mes projet sont sur [https://github.com/cyrisa02](https://github.com/cyrisa02)
 
-- 📫 How to reach me **cyril.gourdon.02@gmail.com**
+- 📫 Comment me joindre:  **cyril.gourdon.02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cyril-gourdon-web-developpeur-symfony-angular" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyril-gourdon-web-developpeur-symfony-angular" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyril-gourdon-ia-consulting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyril-gourdon" height="30" width="40" /></a>
 <a href="https://fb.com/atelier du cabriolet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atelier du cabriolet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwx0nluqwhxvly5v_u-ll4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwx0nluqwhxvly5v_u-ll4q" height="30" width="40" /></a>
 <a href="https://discord.gg/cyrisa02#8061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cyrisa02#8061" height="30" width="40" /></a>
@@ -22,20 +22,42 @@
 
 
 
-Actuellement en formation web-developpeur full stack. Je renforce mes compétences:
-React permet d'allier les performances du Html,du CSS et de Javascript pour dynamiser vos sites et vos applications.
-Bootstrap, SASS et les Media Queries rendront vos sites responsives et respecteront le concept de "Mobile First".
-Avec Git, vous pourrez mener des projets modernes en collaboration, en gérant les mises à jour pour vous faire gagner du temps sur le développement.
-Php vous permettra de gérer les serveurs de vos bases de données.
+Après ma formation web-developpeur full stack, j'ai décidé d'accompagner les petites entreprises dans le domaine de l'Intelligence Artificielle . Je renforce mes compétences:
+📝 RÉSUMÉ/À PROPOS
+🚀 Vous perdez du temps sur des tâches répétitives ? Vos processus manuels freinent votre croissance ?
+Je transforme votre quotidien professionnel grâce à l'automatisation intelligente.
+Ingénieur en Génie Mécanique avec une expertise industrielle internationale, j'ai pivoté vers l'Intelligence Artificielle pour révolutionner le quotidien des artisans et des TPE/PME françaises.
 
-Here are some ideas to get you started:
+🎯 Ce que j'apporte :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Consulting stratégique : Identification des processus à automatiser pour un ROI immédiat
+Formation pratique : Vous et vos équipes maîtrisez l'IA en toute autonomie
+Automatisation sur-mesure : Développement d'outils IA adaptés à vos métiers spécifiques
 
+💡 Mon approche unique :
+Fort de mon expérience en gestion de production et optimisation industrielle, je comprends vos contraintes opérationnelles. 
+
+🎖️ Ma différence :
+Mon background d'ingénieur industriel me permet de parler votre langage. Je traduis la complexité de l'IA en solutions simples, efficaces et rentables dès les premiers mois.
+
+📞 Prêt à automatiser votre croissance ?
+Contactez-moi pour un audit de vos processus à automatiser.
+
+🛠️ COMPÉTENCES CLÉS
+Intelligence Artificielle & Automatisation :
+
+Développement d'outils IA sur-mesure
+Automatisation de processus métier
+Analyse prédictive et maintenance intelligente
+Formation et accompagnement IA
+
+Expertise Industrielle :
+
+Gestion de production • Optimisation des processus
+Management de projet • Coordination R&D
+ERP (Dynamics, SAP) • Modélisation 3D (SolidWorks)
+
+Soft Skills :
+
+Écoute active et empathie • Leadership transversal
+Pédagogie et transmission • Résolution de problèmes complexes
