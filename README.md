@@ -26,6 +26,7 @@
 Après ma formation web-developpeur full stack, j'ai décidé d'accompagner les petites entreprises dans le domaine de l'Intelligence Artificielle . 
 
 📝 RÉSUMÉ/À PROPOS
+
 🚀 Vous perdez du temps sur des tâches répétitives ? Vos processus manuels freinent votre croissance ?
 Je transforme votre quotidien professionnel grâce à l'automatisation intelligente.
 Ingénieur en Génie Mécanique avec une expertise industrielle internationale, j'ai pivoté vers l'Intelligence Artificielle pour révolutionner le quotidien des artisans et des TPE/PME françaises.
