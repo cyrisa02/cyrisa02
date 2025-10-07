@@ -9,7 +9,7 @@
 
 - 📫 Comment me joindre:  **cyril.gourdon.02@gmail.com**
 
-<h3 align="left">Vous pouvez me joindre aussis sur:</h3>
+<h3 align="left">Vous pouvez me joindre aussi sur:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cyril-gourdon-ia-consulting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyril-gourdon" height="30" width="40" /></a>
   <!--
