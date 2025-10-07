@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Je suis Cyril Gourdon</h1>
 <h3 align="center">I am a backend developer and AI consultant from France</h3>
 
-- 🔭 Je travaille sur différents projets connectant l'Itelligence Artificielle pour le monde des TPE/PME, artisans et commerçants
+- 🔭 Je travaille sur différents projets connectant l'Intelligence Artificielle pour le monde des TPE/PME, artisans et commerçants
 
 - 🌱 Je travaille avec **Claude, Perplexity, NoteBookLM, Gemini, Grok, Manus, Skywork, Notion, Openrouter, ChatGPT**  
 
