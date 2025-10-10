@@ -9,6 +9,9 @@
 
 - 📫 Comment me joindre:  **cyril.gourdon.02@gmail.com**
 
+- <img width="917" height="140" alt="image" src="https://github.com/user-attachments/assets/4e71a631-857d-44d7-a317-015e5a7074d0" />
+
+
 <h3 align="left">Vous pouvez me joindre aussi sur:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cyril-gourdon-ia-consulting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyril-gourdon" height="30" width="40" /></a>
