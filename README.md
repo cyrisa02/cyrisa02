@@ -11,6 +11,9 @@
 
 - <img width="917" height="140" alt="image" src="https://github.com/user-attachments/assets/4e71a631-857d-44d7-a317-015e5a7074d0" />
 
+<img width="132" height="58" alt="image" src="https://github.com/user-attachments/assets/826f6820-4145-4577-905e-f49b2cdaa742" />
+
+
 
 <h3 align="left">Vous pouvez me joindre aussi sur:</h3>
 <p align="left">
